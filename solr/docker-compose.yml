@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  solr:
+    image: solr
+    ports:
+     - "8983:8983"
+    volumes:
+      - datos:/var/solr
+    command:
+      - solr-precreate
+      - gettingstarted
+volumes:
+  datos:
