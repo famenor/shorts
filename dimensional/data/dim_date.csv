@@ -1,4 +1,5 @@
 id_date,date,day,month,year,day_of_week,day_name,month_name,quarter,weekday_indicator,week_of_year,is_end_of_month,is_end_of_quarter,is_end_of_year,quarter_name,year_month,quarter_year,holiday_indicator
+19000101,1900-01-01,1,1,1900,1,Lunes,Enero,1,Entre Semana,1,False,False,False,T1,1900-01,T1 1900,No Festivo
 20250101,2025-01-01,1,1,2025,3,Miércoles,Enero,1,Entre Semana,1,False,False,False,T1,2025-01,T1 2025,Festivo
 20250102,2025-01-02,2,1,2025,4,Jueves,Enero,1,Entre Semana,1,False,False,False,T1,2025-01,T1 2025,No Festivo
 20250103,2025-01-03,3,1,2025,5,Viernes,Enero,1,Entre Semana,1,False,False,False,T1,2025-01,T1 2025,No Festivo
@@ -364,3 +365,4 @@ id_date,date,day,month,year,day_of_week,day_name,month_name,quarter,weekday_indi
 20251229,2025-12-29,29,12,2025,1,Lunes,Diciembre,4,Entre Semana,1,False,False,False,T4,2025-12,T4 2025,No Festivo
 20251230,2025-12-30,30,12,2025,2,Martes,Diciembre,4,Entre Semana,1,False,False,False,T4,2025-12,T4 2025,No Festivo
 20251231,2025-12-31,31,12,2025,3,Miércoles,Diciembre,4,Entre Semana,1,True,True,True,T4,2025-12,T4 2025,No Festivo
+21000101,2100-01-01,1,1,2100,5,Viernes,Enero,1,Entre Semana,53,False,False,False,T1,2100-01,T1 2100,No Festivo

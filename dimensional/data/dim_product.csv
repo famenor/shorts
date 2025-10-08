@@ -1,0 +1,101 @@
+id_product,title,author,genre,subgenre,publication_year,publisher,cover_type,country
+1,Libro 1,Autor 21,Misterio,Subgénero B,1994,Editorial 5,Tapa Dura,Argentina
+2,Libro 2,Autor 4,Misterio,Subgénero C,1990,Editorial 4,Tapa Blanda,España
+3,Libro 3,Autor 1,Misterio,Subgénero B,2019,Editorial 5,Tapa Blanda,Colombia
+4,Libro 4,Autor 24,Ficción,Subgénero A,1996,Editorial 3,Tapa Dura,Colombia
+5,Libro 5,Autor 9,Romance,Subgénero A,1994,Editorial 1,Tapa Dura,México
+6,Libro 6,Autor 8,Romance,Subgénero A,2024,Editorial 1,Tapa Blanda,Colombia
+7,Libro 7,Autor 8,No Ficción,Subgénero B,2003,Editorial 3,Tapa Dura,Colombia
+8,Libro 8,Autor 5,Ciencia Ficción,Subgénero B,2022,Editorial 2,Tapa Blanda,México
+9,Libro 9,Autor 24,No Ficción,Subgénero A,2006,Editorial 5,Tapa Blanda,Chile
+10,Libro 10,Autor 4,Fantasia,Subgénero C,1998,Editorial 3,Tapa Blanda,Chile
+11,Libro 11,Autor 22,Misterio,Subgénero A,2012,Editorial 1,Tapa Blanda,México
+12,Libro 12,Autor 24,No Ficción,Subgénero A,1994,Editorial 1,Tapa Blanda,México
+13,Libro 13,Autor 29,No Ficción,Subgénero A,2005,Editorial 5,Tapa Blanda,España
+14,Libro 14,Autor 18,Misterio,Subgénero A,2013,Editorial 4,Tapa Blanda,Colombia
+15,Libro 15,Autor 3,Ficción,Subgénero B,2008,Editorial 3,Tapa Blanda,Chile
+16,Libro 16,Autor 19,Misterio,Subgénero A,2000,Editorial 3,Tapa Blanda,España
+17,Libro 17,Autor 14,Misterio,Subgénero B,2018,Editorial 4,Tapa Blanda,Colombia
+18,Libro 18,Autor 2,Ciencia Ficción,Subgénero B,2024,Editorial 5,Tapa Blanda,México
+19,Libro 19,Autor 1,Ficción,Subgénero C,2009,Editorial 5,Tapa Blanda,Colombia
+20,Libro 20,Autor 3,Fantasia,Subgénero C,2023,Editorial 1,Tapa Blanda,Colombia
+21,Libro 21,Autor 7,Romance,Subgénero B,1990,Editorial 4,Tapa Dura,México
+22,Libro 22,Autor 8,Misterio,Subgénero A,2009,Editorial 5,Tapa Dura,Colombia
+23,Libro 23,Autor 17,No Ficción,Subgénero B,1996,Editorial 2,Tapa Dura,Chile
+24,Libro 24,Autor 20,Ciencia Ficción,Subgénero B,1998,Editorial 3,Tapa Blanda,Colombia
+25,Libro 25,Autor 1,Fantasia,Subgénero A,2006,Editorial 1,Tapa Blanda,México
+26,Libro 26,Autor 18,Romance,Subgénero B,1997,Editorial 4,Tapa Blanda,Chile
+27,Libro 27,Autor 7,Ficción,Subgénero B,1996,Editorial 1,Tapa Blanda,Colombia
+28,Libro 28,Autor 23,Ficción,Subgénero B,1999,Editorial 5,Tapa Dura,España
+29,Libro 29,Autor 21,Misterio,Subgénero C,2007,Editorial 5,Tapa Dura,Argentina
+30,Libro 30,Autor 23,Romance,Subgénero A,2008,Editorial 2,Tapa Dura,España
+31,Libro 31,Autor 18,Misterio,Subgénero B,2003,Editorial 3,Tapa Dura,Argentina
+32,Libro 32,Autor 14,Ciencia Ficción,Subgénero B,2011,Editorial 4,Tapa Dura,España
+33,Libro 33,Autor 8,Romance,Subgénero A,2003,Editorial 1,Tapa Blanda,Chile
+34,Libro 34,Autor 15,Ciencia Ficción,Subgénero C,2006,Editorial 3,Tapa Dura,Chile
+35,Libro 35,Autor 19,Fantasia,Subgénero C,2022,Editorial 5,Tapa Dura,México
+36,Libro 36,Autor 9,Ficción,Subgénero A,2021,Editorial 3,Tapa Blanda,Chile
+37,Libro 37,Autor 26,Ciencia Ficción,Subgénero A,2006,Editorial 1,Tapa Blanda,Colombia
+38,Libro 38,Autor 28,Misterio,Subgénero B,1993,Editorial 3,Tapa Dura,Chile
+39,Libro 39,Autor 1,Fantasia,Subgénero A,1995,Editorial 5,Tapa Dura,Colombia
+40,Libro 40,Autor 25,Ficción,Subgénero A,2017,Editorial 3,Tapa Blanda,Argentina
+41,Libro 41,Autor 26,Ficción,Subgénero B,2007,Editorial 4,Tapa Dura,Colombia
+42,Libro 42,Autor 6,Misterio,Subgénero C,1992,Editorial 3,Tapa Dura,Chile
+43,Libro 43,Autor 23,Romance,Subgénero A,1990,Editorial 4,Tapa Dura,España
+44,Libro 44,Autor 14,Ciencia Ficción,Subgénero C,2011,Editorial 3,Tapa Blanda,Chile
+45,Libro 45,Autor 11,Romance,Subgénero C,1998,Editorial 5,Tapa Blanda,Argentina
+46,Libro 46,Autor 9,Ciencia Ficción,Subgénero A,2006,Editorial 2,Tapa Blanda,Argentina
+47,Libro 47,Autor 5,No Ficción,Subgénero B,2000,Editorial 2,Tapa Blanda,Argentina
+48,Libro 48,Autor 7,Romance,Subgénero B,2018,Editorial 4,Tapa Blanda,Colombia
+49,Libro 49,Autor 25,Fantasia,Subgénero A,2017,Editorial 4,Tapa Dura,España
+50,Libro 50,Autor 11,Misterio,Subgénero A,1990,Editorial 2,Tapa Dura,Chile
+51,Libro 51,Autor 4,Ficción,Subgénero C,1997,Editorial 5,Tapa Dura,Chile
+52,Libro 52,Autor 3,Fantasia,Subgénero A,1994,Editorial 5,Tapa Blanda,México
+53,Libro 53,Autor 13,Misterio,Subgénero B,1999,Editorial 3,Tapa Blanda,Chile
+54,Libro 54,Autor 4,Misterio,Subgénero B,2024,Editorial 4,Tapa Blanda,España
+55,Libro 55,Autor 12,Ciencia Ficción,Subgénero C,1992,Editorial 5,Tapa Dura,Argentina
+56,Libro 56,Autor 28,No Ficción,Subgénero C,2013,Editorial 1,Tapa Blanda,Colombia
+57,Libro 57,Autor 12,Ficción,Subgénero A,1999,Editorial 3,Tapa Blanda,España
+58,Libro 58,Autor 20,Ficción,Subgénero A,2017,Editorial 3,Tapa Blanda,México
+59,Libro 59,Autor 9,Misterio,Subgénero B,1998,Editorial 2,Tapa Dura,Chile
+60,Libro 60,Autor 26,Misterio,Subgénero C,1992,Editorial 4,Tapa Dura,México
+61,Libro 61,Autor 2,Fantasia,Subgénero C,2009,Editorial 5,Tapa Dura,España
+62,Libro 62,Autor 24,Misterio,Subgénero A,2013,Editorial 5,Tapa Dura,Colombia
+63,Libro 63,Autor 15,Romance,Subgénero C,1992,Editorial 3,Tapa Dura,España
+64,Libro 64,Autor 18,Ficción,Subgénero C,2012,Editorial 4,Tapa Blanda,Chile
+65,Libro 65,Autor 4,Romance,Subgénero C,2003,Editorial 4,Tapa Dura,Colombia
+66,Libro 66,Autor 30,Fantasia,Subgénero B,2005,Editorial 4,Tapa Dura,España
+67,Libro 67,Autor 13,Romance,Subgénero B,1996,Editorial 2,Tapa Dura,México
+68,Libro 68,Autor 3,No Ficción,Subgénero A,2012,Editorial 5,Tapa Dura,Chile
+69,Libro 69,Autor 18,Ciencia Ficción,Subgénero A,2016,Editorial 4,Tapa Blanda,México
+70,Libro 70,Autor 10,Ficción,Subgénero A,1999,Editorial 2,Tapa Dura,Colombia
+71,Libro 71,Autor 27,Fantasia,Subgénero C,2005,Editorial 1,Tapa Dura,Argentina
+72,Libro 72,Autor 21,Fantasia,Subgénero A,2000,Editorial 3,Tapa Blanda,Colombia
+73,Libro 73,Autor 20,Fantasia,Subgénero A,2001,Editorial 5,Tapa Dura,Colombia
+74,Libro 74,Autor 29,Romance,Subgénero A,2016,Editorial 5,Tapa Blanda,Colombia
+75,Libro 75,Autor 28,Ciencia Ficción,Subgénero B,1991,Editorial 3,Tapa Dura,Argentina
+76,Libro 76,Autor 12,Ficción,Subgénero C,2001,Editorial 1,Tapa Dura,Colombia
+77,Libro 77,Autor 19,Ciencia Ficción,Subgénero B,2011,Editorial 2,Tapa Dura,México
+78,Libro 78,Autor 7,Fantasia,Subgénero A,2016,Editorial 3,Tapa Dura,España
+79,Libro 79,Autor 23,Misterio,Subgénero B,2005,Editorial 2,Tapa Dura,Colombia
+80,Libro 80,Autor 3,No Ficción,Subgénero C,2007,Editorial 2,Tapa Dura,España
+81,Libro 81,Autor 2,No Ficción,Subgénero A,2000,Editorial 2,Tapa Blanda,Argentina
+82,Libro 82,Autor 22,Romance,Subgénero A,1996,Editorial 1,Tapa Dura,Argentina
+83,Libro 83,Autor 8,Ficción,Subgénero C,2014,Editorial 1,Tapa Blanda,Argentina
+84,Libro 84,Autor 25,Misterio,Subgénero B,1992,Editorial 2,Tapa Blanda,Argentina
+85,Libro 85,Autor 10,Misterio,Subgénero C,2020,Editorial 4,Tapa Dura,Colombia
+86,Libro 86,Autor 3,Fantasia,Subgénero B,2004,Editorial 5,Tapa Dura,España
+87,Libro 87,Autor 28,Romance,Subgénero B,2002,Editorial 1,Tapa Dura,Colombia
+88,Libro 88,Autor 8,Ficción,Subgénero A,2019,Editorial 4,Tapa Blanda,España
+89,Libro 89,Autor 28,Romance,Subgénero A,2012,Editorial 4,Tapa Blanda,España
+90,Libro 90,Autor 4,Fantasia,Subgénero B,2009,Editorial 5,Tapa Dura,México
+91,Libro 91,Autor 13,Ficción,Subgénero B,2004,Editorial 2,Tapa Blanda,México
+92,Libro 92,Autor 9,Romance,Subgénero A,2004,Editorial 4,Tapa Blanda,México
+93,Libro 93,Autor 15,Romance,Subgénero A,1991,Editorial 4,Tapa Blanda,Argentina
+94,Libro 94,Autor 21,Fantasia,Subgénero C,2002,Editorial 4,Tapa Blanda,Colombia
+95,Libro 95,Autor 27,Fantasia,Subgénero A,2015,Editorial 2,Tapa Blanda,México
+96,Libro 96,Autor 12,Misterio,Subgénero A,2011,Editorial 2,Tapa Dura,España
+97,Libro 97,Autor 6,Misterio,Subgénero A,2007,Editorial 1,Tapa Dura,Argentina
+98,Libro 98,Autor 12,Misterio,Subgénero B,1994,Editorial 1,Tapa Dura,Colombia
+99,Libro 99,Autor 12,Ciencia Ficción,Subgénero B,2007,Editorial 4,Tapa Dura,Chile
+100,Libro 100,Autor 7,Misterio,Subgénero C,2012,Editorial 2,Tapa Blanda,Argentina

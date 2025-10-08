@@ -1,0 +1,7 @@
+id_promotion,promotion_code,promotion_name,start_date,end_date,price_reduction_type,promotion_media_type
+1,00000,Sin Promoción,19000101,21000101,Sin reducción,Sin campaña
+2,DESC01,Promoción al 2x1,20250501,20250515,Porcentaje,Facebook
+3,DESC02,Promoción al 2x1,20250601,20250615,Porcentaje,Radio
+4,DESC03,Promoción al 2x1,20250701,20250715,Porcentaje,Sin Campaña
+5,FIJ01,Cupon de 50 pesos en compra superior a $500,20250801,20250815,Fijo,Facebook
+6,FIJ02,Cupon de 50 pesos en compra superior a $500,20250901,20250915,Fijo,Radio

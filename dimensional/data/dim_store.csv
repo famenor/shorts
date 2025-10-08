@@ -1,0 +1,21 @@
+id_store,store_name,state,open_date,store_type
+1,Tienda 1,Jalisco,20250201,Centro Comercial
+2,Tienda 2,CDMX,20250101,Standalone
+3,Tienda 3,CDMX,20250115,Standalone
+4,Tienda 4,Jalisco,20250101,Standalone
+5,Tienda 5,CDMX,20250101,Standalone
+6,Tienda 6,CDMX,20250101,Centro Comercial
+7,Tienda 7,Nuevo León,20250101,Standalone
+8,Tienda 8,Jalisco,20250101,Standalone
+9,Tienda 9,Guanajuato,20250101,Standalone
+10,Tienda 10,Nuevo León,20250101,Standalone
+11,Tienda 11,Puebla,20250215,Standalone
+12,Tienda 12,CDMX,20250101,Standalone
+13,Tienda 13,Guanajuato,20250115,Standalone
+14,Tienda 14,Nuevo León,20250101,Standalone
+15,Tienda 15,Guanajuato,20250115,Standalone
+16,Tienda 16,Nuevo León,20250101,Standalone
+17,Tienda 17,Nuevo León,20250101,Standalone
+18,Tienda 18,Nuevo León,20250101,Standalone
+19,Tienda 19,CDMX,20250101,Standalone
+20,Tienda 20,CDMX,20250115,Standalone
