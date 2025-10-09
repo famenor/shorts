@@ -1,0 +1,721 @@
+id_store,genre,month,incidence_count
+1,Misterio,7,1
+1,Misterio,8,1
+1,Misterio,9,1
+1,Misterio,10,1
+1,Misterio,11,1
+1,Misterio,12,1
+1,Ficción,7,1
+1,Ficción,8,1
+1,Ficción,9,1
+1,Ficción,10,1
+1,Ficción,11,1
+1,Ficción,12,1
+1,Romance,7,1
+1,Romance,8,1
+1,Romance,9,1
+1,Romance,10,1
+1,Romance,11,1
+1,Romance,12,1
+1,No Ficción,7,1
+1,No Ficción,8,1
+1,No Ficción,9,1
+1,No Ficción,10,1
+1,No Ficción,11,1
+1,No Ficción,12,1
+1,Ciencia Ficción,7,1
+1,Ciencia Ficción,8,1
+1,Ciencia Ficción,9,1
+1,Ciencia Ficción,10,1
+1,Ciencia Ficción,11,1
+1,Ciencia Ficción,12,1
+1,Fantasia,7,1
+1,Fantasia,8,1
+1,Fantasia,9,1
+1,Fantasia,10,1
+1,Fantasia,11,1
+1,Fantasia,12,1
+2,Misterio,7,1
+2,Misterio,8,1
+2,Misterio,9,1
+2,Misterio,10,1
+2,Misterio,11,1
+2,Misterio,12,1
+2,Ficción,7,1
+2,Ficción,8,1
+2,Ficción,9,1
+2,Ficción,10,1
+2,Ficción,11,1
+2,Ficción,12,1
+2,Romance,7,1
+2,Romance,8,1
+2,Romance,9,1
+2,Romance,10,1
+2,Romance,11,1
+2,Romance,12,1
+2,No Ficción,7,1
+2,No Ficción,8,1
+2,No Ficción,9,1
+2,No Ficción,10,1
+2,No Ficción,11,1
+2,No Ficción,12,1
+2,Ciencia Ficción,7,1
+2,Ciencia Ficción,8,1
+2,Ciencia Ficción,9,1
+2,Ciencia Ficción,10,1
+2,Ciencia Ficción,11,1
+2,Ciencia Ficción,12,1
+2,Fantasia,7,1
+2,Fantasia,8,1
+2,Fantasia,9,1
+2,Fantasia,10,1
+2,Fantasia,11,1
+2,Fantasia,12,1
+3,Misterio,7,1
+3,Misterio,8,1
+3,Misterio,9,1
+3,Misterio,10,1
+3,Misterio,11,1
+3,Misterio,12,1
+3,Ficción,7,1
+3,Ficción,8,1
+3,Ficción,9,1
+3,Ficción,10,1
+3,Ficción,11,1
+3,Ficción,12,1
+3,Romance,7,1
+3,Romance,8,1
+3,Romance,9,1
+3,Romance,10,1
+3,Romance,11,1
+3,Romance,12,1
+3,No Ficción,7,1
+3,No Ficción,8,1
+3,No Ficción,9,1
+3,No Ficción,10,1
+3,No Ficción,11,1
+3,No Ficción,12,1
+3,Ciencia Ficción,7,1
+3,Ciencia Ficción,8,1
+3,Ciencia Ficción,9,1
+3,Ciencia Ficción,10,1
+3,Ciencia Ficción,11,1
+3,Ciencia Ficción,12,1
+3,Fantasia,7,1
+3,Fantasia,8,1
+3,Fantasia,9,1
+3,Fantasia,10,1
+3,Fantasia,11,1
+3,Fantasia,12,1
+4,Misterio,7,1
+4,Misterio,8,1
+4,Misterio,9,1
+4,Misterio,10,1
+4,Misterio,11,1
+4,Misterio,12,1
+4,Ficción,7,1
+4,Ficción,8,1
+4,Ficción,9,1
+4,Ficción,10,1
+4,Ficción,11,1
+4,Ficción,12,1
+4,Romance,7,1
+4,Romance,8,1
+4,Romance,9,1
+4,Romance,10,1
+4,Romance,11,1
+4,Romance,12,1
+4,No Ficción,7,1
+4,No Ficción,8,1
+4,No Ficción,9,1
+4,No Ficción,10,1
+4,No Ficción,11,1
+4,No Ficción,12,1
+4,Ciencia Ficción,7,1
+4,Ciencia Ficción,8,1
+4,Ciencia Ficción,9,1
+4,Ciencia Ficción,10,1
+4,Ciencia Ficción,11,1
+4,Ciencia Ficción,12,1
+4,Fantasia,7,1
+4,Fantasia,8,1
+4,Fantasia,9,1
+4,Fantasia,10,1
+4,Fantasia,11,1
+4,Fantasia,12,1
+5,Misterio,7,1
+5,Misterio,8,1
+5,Misterio,9,1
+5,Misterio,10,1
+5,Misterio,11,1
+5,Misterio,12,1
+5,Ficción,7,1
+5,Ficción,8,1
+5,Ficción,9,1
+5,Ficción,10,1
+5,Ficción,11,1
+5,Ficción,12,1
+5,Romance,7,1
+5,Romance,8,1
+5,Romance,9,1
+5,Romance,10,1
+5,Romance,11,1
+5,Romance,12,1
+5,No Ficción,7,1
+5,No Ficción,8,1
+5,No Ficción,9,1
+5,No Ficción,10,1
+5,No Ficción,11,1
+5,No Ficción,12,1
+5,Ciencia Ficción,7,1
+5,Ciencia Ficción,8,1
+5,Ciencia Ficción,9,1
+5,Ciencia Ficción,10,1
+5,Ciencia Ficción,11,1
+5,Ciencia Ficción,12,1
+5,Fantasia,7,1
+5,Fantasia,8,1
+5,Fantasia,9,1
+5,Fantasia,10,1
+5,Fantasia,11,1
+5,Fantasia,12,1
+6,Misterio,7,1
+6,Misterio,8,1
+6,Misterio,9,1
+6,Misterio,10,1
+6,Misterio,11,1
+6,Misterio,12,1
+6,Ficción,7,1
+6,Ficción,8,1
+6,Ficción,9,1
+6,Ficción,10,1
+6,Ficción,11,1
+6,Ficción,12,1
+6,Romance,7,1
+6,Romance,8,1
+6,Romance,9,1
+6,Romance,10,1
+6,Romance,11,1
+6,Romance,12,1
+6,No Ficción,7,1
+6,No Ficción,8,1
+6,No Ficción,9,1
+6,No Ficción,10,1
+6,No Ficción,11,1
+6,No Ficción,12,1
+6,Ciencia Ficción,7,1
+6,Ciencia Ficción,8,1
+6,Ciencia Ficción,9,1
+6,Ciencia Ficción,10,1
+6,Ciencia Ficción,11,1
+6,Ciencia Ficción,12,1
+6,Fantasia,7,1
+6,Fantasia,8,1
+6,Fantasia,9,1
+6,Fantasia,10,1
+6,Fantasia,11,1
+6,Fantasia,12,1
+7,Misterio,7,1
+7,Misterio,8,1
+7,Misterio,9,1
+7,Misterio,10,1
+7,Misterio,11,1
+7,Misterio,12,1
+7,Ficción,7,1
+7,Ficción,8,1
+7,Ficción,9,1
+7,Ficción,10,1
+7,Ficción,11,1
+7,Ficción,12,1
+7,Romance,7,1
+7,Romance,8,1
+7,Romance,9,1
+7,Romance,10,1
+7,Romance,11,1
+7,Romance,12,1
+7,No Ficción,7,1
+7,No Ficción,8,1
+7,No Ficción,9,1
+7,No Ficción,10,1
+7,No Ficción,11,1
+7,No Ficción,12,1
+7,Ciencia Ficción,7,1
+7,Ciencia Ficción,8,1
+7,Ciencia Ficción,9,1
+7,Ciencia Ficción,10,1
+7,Ciencia Ficción,11,1
+7,Ciencia Ficción,12,1
+7,Fantasia,7,1
+7,Fantasia,8,1
+7,Fantasia,9,1
+7,Fantasia,10,1
+7,Fantasia,11,1
+7,Fantasia,12,1
+8,Misterio,7,1
+8,Misterio,8,1
+8,Misterio,9,1
+8,Misterio,10,1
+8,Misterio,11,1
+8,Misterio,12,1
+8,Ficción,7,1
+8,Ficción,8,1
+8,Ficción,9,1
+8,Ficción,10,1
+8,Ficción,11,1
+8,Ficción,12,1
+8,Romance,7,1
+8,Romance,8,1
+8,Romance,9,1
+8,Romance,10,1
+8,Romance,11,1
+8,Romance,12,1
+8,No Ficción,7,1
+8,No Ficción,8,1
+8,No Ficción,9,1
+8,No Ficción,10,1
+8,No Ficción,11,1
+8,No Ficción,12,1
+8,Ciencia Ficción,7,1
+8,Ciencia Ficción,8,1
+8,Ciencia Ficción,9,1
+8,Ciencia Ficción,10,1
+8,Ciencia Ficción,11,1
+8,Ciencia Ficción,12,1
+8,Fantasia,7,1
+8,Fantasia,8,1
+8,Fantasia,9,1
+8,Fantasia,10,1
+8,Fantasia,11,1
+8,Fantasia,12,1
+9,Misterio,7,1
+9,Misterio,8,1
+9,Misterio,9,1
+9,Misterio,10,1
+9,Misterio,11,1
+9,Misterio,12,1
+9,Ficción,7,1
+9,Ficción,8,1
+9,Ficción,9,1
+9,Ficción,10,1
+9,Ficción,11,1
+9,Ficción,12,1
+9,Romance,7,1
+9,Romance,8,1
+9,Romance,9,1
+9,Romance,10,1
+9,Romance,11,1
+9,Romance,12,1
+9,No Ficción,7,1
+9,No Ficción,8,1
+9,No Ficción,9,1
+9,No Ficción,10,1
+9,No Ficción,11,1
+9,No Ficción,12,1
+9,Ciencia Ficción,7,1
+9,Ciencia Ficción,8,1
+9,Ciencia Ficción,9,1
+9,Ciencia Ficción,10,1
+9,Ciencia Ficción,11,1
+9,Ciencia Ficción,12,1
+9,Fantasia,7,1
+9,Fantasia,8,1
+9,Fantasia,9,1
+9,Fantasia,10,1
+9,Fantasia,11,1
+9,Fantasia,12,1
+10,Misterio,7,1
+10,Misterio,8,1
+10,Misterio,9,1
+10,Misterio,10,1
+10,Misterio,11,1
+10,Misterio,12,1
+10,Ficción,7,1
+10,Ficción,8,1
+10,Ficción,9,1
+10,Ficción,10,1
+10,Ficción,11,1
+10,Ficción,12,1
+10,Romance,7,1
+10,Romance,8,1
+10,Romance,9,1
+10,Romance,10,1
+10,Romance,11,1
+10,Romance,12,1
+10,No Ficción,7,1
+10,No Ficción,8,1
+10,No Ficción,9,1
+10,No Ficción,10,1
+10,No Ficción,11,1
+10,No Ficción,12,1
+10,Ciencia Ficción,7,1
+10,Ciencia Ficción,8,1
+10,Ciencia Ficción,9,1
+10,Ciencia Ficción,10,1
+10,Ciencia Ficción,11,1
+10,Ciencia Ficción,12,1
+10,Fantasia,7,1
+10,Fantasia,8,1
+10,Fantasia,9,1
+10,Fantasia,10,1
+10,Fantasia,11,1
+10,Fantasia,12,1
+11,Misterio,7,1
+11,Misterio,8,1
+11,Misterio,9,1
+11,Misterio,10,1
+11,Misterio,11,1
+11,Misterio,12,1
+11,Ficción,7,1
+11,Ficción,8,1
+11,Ficción,9,1
+11,Ficción,10,1
+11,Ficción,11,1
+11,Ficción,12,1
+11,Romance,7,1
+11,Romance,8,1
+11,Romance,9,1
+11,Romance,10,1
+11,Romance,11,1
+11,Romance,12,1
+11,No Ficción,7,1
+11,No Ficción,8,1
+11,No Ficción,9,1
+11,No Ficción,10,1
+11,No Ficción,11,1
+11,No Ficción,12,1
+11,Ciencia Ficción,7,1
+11,Ciencia Ficción,8,1
+11,Ciencia Ficción,9,1
+11,Ciencia Ficción,10,1
+11,Ciencia Ficción,11,1
+11,Ciencia Ficción,12,1
+11,Fantasia,7,1
+11,Fantasia,8,1
+11,Fantasia,9,1
+11,Fantasia,10,1
+11,Fantasia,11,1
+11,Fantasia,12,1
+12,Misterio,7,1
+12,Misterio,8,1
+12,Misterio,9,1
+12,Misterio,10,1
+12,Misterio,11,1
+12,Misterio,12,1
+12,Ficción,7,1
+12,Ficción,8,1
+12,Ficción,9,1
+12,Ficción,10,1
+12,Ficción,11,1
+12,Ficción,12,1
+12,Romance,7,1
+12,Romance,8,1
+12,Romance,9,1
+12,Romance,10,1
+12,Romance,11,1
+12,Romance,12,1
+12,No Ficción,7,1
+12,No Ficción,8,1
+12,No Ficción,9,1
+12,No Ficción,10,1
+12,No Ficción,11,1
+12,No Ficción,12,1
+12,Ciencia Ficción,7,1
+12,Ciencia Ficción,8,1
+12,Ciencia Ficción,9,1
+12,Ciencia Ficción,10,1
+12,Ciencia Ficción,11,1
+12,Ciencia Ficción,12,1
+12,Fantasia,7,1
+12,Fantasia,8,1
+12,Fantasia,9,1
+12,Fantasia,10,1
+12,Fantasia,11,1
+12,Fantasia,12,1
+13,Misterio,7,1
+13,Misterio,8,1
+13,Misterio,9,1
+13,Misterio,10,1
+13,Misterio,11,1
+13,Misterio,12,1
+13,Ficción,7,1
+13,Ficción,8,1
+13,Ficción,9,1
+13,Ficción,10,1
+13,Ficción,11,1
+13,Ficción,12,1
+13,Romance,7,1
+13,Romance,8,1
+13,Romance,9,1
+13,Romance,10,1
+13,Romance,11,1
+13,Romance,12,1
+13,No Ficción,7,1
+13,No Ficción,8,1
+13,No Ficción,9,1
+13,No Ficción,10,1
+13,No Ficción,11,1
+13,No Ficción,12,1
+13,Ciencia Ficción,7,1
+13,Ciencia Ficción,8,1
+13,Ciencia Ficción,9,1
+13,Ciencia Ficción,10,1
+13,Ciencia Ficción,11,1
+13,Ciencia Ficción,12,1
+13,Fantasia,7,1
+13,Fantasia,8,1
+13,Fantasia,9,1
+13,Fantasia,10,1
+13,Fantasia,11,1
+13,Fantasia,12,1
+14,Misterio,7,1
+14,Misterio,8,1
+14,Misterio,9,1
+14,Misterio,10,1
+14,Misterio,11,1
+14,Misterio,12,1
+14,Ficción,7,1
+14,Ficción,8,1
+14,Ficción,9,1
+14,Ficción,10,1
+14,Ficción,11,1
+14,Ficción,12,1
+14,Romance,7,1
+14,Romance,8,1
+14,Romance,9,1
+14,Romance,10,1
+14,Romance,11,1
+14,Romance,12,1
+14,No Ficción,7,1
+14,No Ficción,8,1
+14,No Ficción,9,1
+14,No Ficción,10,1
+14,No Ficción,11,1
+14,No Ficción,12,1
+14,Ciencia Ficción,7,1
+14,Ciencia Ficción,8,1
+14,Ciencia Ficción,9,1
+14,Ciencia Ficción,10,1
+14,Ciencia Ficción,11,1
+14,Ciencia Ficción,12,1
+14,Fantasia,7,1
+14,Fantasia,8,1
+14,Fantasia,9,1
+14,Fantasia,10,1
+14,Fantasia,11,1
+14,Fantasia,12,1
+15,Misterio,7,1
+15,Misterio,8,1
+15,Misterio,9,1
+15,Misterio,10,1
+15,Misterio,11,1
+15,Misterio,12,1
+15,Ficción,7,1
+15,Ficción,8,1
+15,Ficción,9,1
+15,Ficción,10,1
+15,Ficción,11,1
+15,Ficción,12,1
+15,Romance,7,1
+15,Romance,8,1
+15,Romance,9,1
+15,Romance,10,1
+15,Romance,11,1
+15,Romance,12,1
+15,No Ficción,7,1
+15,No Ficción,8,1
+15,No Ficción,9,1
+15,No Ficción,10,1
+15,No Ficción,11,1
+15,No Ficción,12,1
+15,Ciencia Ficción,7,1
+15,Ciencia Ficción,8,1
+15,Ciencia Ficción,9,1
+15,Ciencia Ficción,10,1
+15,Ciencia Ficción,11,1
+15,Ciencia Ficción,12,1
+15,Fantasia,7,1
+15,Fantasia,8,1
+15,Fantasia,9,1
+15,Fantasia,10,1
+15,Fantasia,11,1
+15,Fantasia,12,1
+16,Misterio,7,1
+16,Misterio,8,1
+16,Misterio,9,1
+16,Misterio,10,1
+16,Misterio,11,1
+16,Misterio,12,1
+16,Ficción,7,1
+16,Ficción,8,1
+16,Ficción,9,1
+16,Ficción,10,1
+16,Ficción,11,1
+16,Ficción,12,1
+16,Romance,7,1
+16,Romance,8,1
+16,Romance,9,1
+16,Romance,10,1
+16,Romance,11,1
+16,Romance,12,1
+16,No Ficción,7,1
+16,No Ficción,8,1
+16,No Ficción,9,1
+16,No Ficción,10,1
+16,No Ficción,11,1
+16,No Ficción,12,1
+16,Ciencia Ficción,7,1
+16,Ciencia Ficción,8,1
+16,Ciencia Ficción,9,1
+16,Ciencia Ficción,10,1
+16,Ciencia Ficción,11,1
+16,Ciencia Ficción,12,1
+16,Fantasia,7,1
+16,Fantasia,8,1
+16,Fantasia,9,1
+16,Fantasia,10,1
+16,Fantasia,11,1
+16,Fantasia,12,1
+17,Misterio,7,1
+17,Misterio,8,1
+17,Misterio,9,1
+17,Misterio,10,1
+17,Misterio,11,1
+17,Misterio,12,1
+17,Ficción,7,1
+17,Ficción,8,1
+17,Ficción,9,1
+17,Ficción,10,1
+17,Ficción,11,1
+17,Ficción,12,1
+17,Romance,7,1
+17,Romance,8,1
+17,Romance,9,1
+17,Romance,10,1
+17,Romance,11,1
+17,Romance,12,1
+17,No Ficción,7,1
+17,No Ficción,8,1
+17,No Ficción,9,1
+17,No Ficción,10,1
+17,No Ficción,11,1
+17,No Ficción,12,1
+17,Ciencia Ficción,7,1
+17,Ciencia Ficción,8,1
+17,Ciencia Ficción,9,1
+17,Ciencia Ficción,10,1
+17,Ciencia Ficción,11,1
+17,Ciencia Ficción,12,1
+17,Fantasia,7,1
+17,Fantasia,8,1
+17,Fantasia,9,1
+17,Fantasia,10,1
+17,Fantasia,11,1
+17,Fantasia,12,1
+18,Misterio,7,1
+18,Misterio,8,1
+18,Misterio,9,1
+18,Misterio,10,1
+18,Misterio,11,1
+18,Misterio,12,1
+18,Ficción,7,1
+18,Ficción,8,1
+18,Ficción,9,1
+18,Ficción,10,1
+18,Ficción,11,1
+18,Ficción,12,1
+18,Romance,7,1
+18,Romance,8,1
+18,Romance,9,1
+18,Romance,10,1
+18,Romance,11,1
+18,Romance,12,1
+18,No Ficción,7,1
+18,No Ficción,8,1
+18,No Ficción,9,1
+18,No Ficción,10,1
+18,No Ficción,11,1
+18,No Ficción,12,1
+18,Ciencia Ficción,7,1
+18,Ciencia Ficción,8,1
+18,Ciencia Ficción,9,1
+18,Ciencia Ficción,10,1
+18,Ciencia Ficción,11,1
+18,Ciencia Ficción,12,1
+18,Fantasia,7,1
+18,Fantasia,8,1
+18,Fantasia,9,1
+18,Fantasia,10,1
+18,Fantasia,11,1
+18,Fantasia,12,1
+19,Misterio,7,1
+19,Misterio,8,1
+19,Misterio,9,1
+19,Misterio,10,1
+19,Misterio,11,1
+19,Misterio,12,1
+19,Ficción,7,1
+19,Ficción,8,1
+19,Ficción,9,1
+19,Ficción,10,1
+19,Ficción,11,1
+19,Ficción,12,1
+19,Romance,7,1
+19,Romance,8,1
+19,Romance,9,1
+19,Romance,10,1
+19,Romance,11,1
+19,Romance,12,1
+19,No Ficción,7,1
+19,No Ficción,8,1
+19,No Ficción,9,1
+19,No Ficción,10,1
+19,No Ficción,11,1
+19,No Ficción,12,1
+19,Ciencia Ficción,7,1
+19,Ciencia Ficción,8,1
+19,Ciencia Ficción,9,1
+19,Ciencia Ficción,10,1
+19,Ciencia Ficción,11,1
+19,Ciencia Ficción,12,1
+19,Fantasia,7,1
+19,Fantasia,8,1
+19,Fantasia,9,1
+19,Fantasia,10,1
+19,Fantasia,11,1
+19,Fantasia,12,1
+20,Misterio,7,1
+20,Misterio,8,1
+20,Misterio,9,1
+20,Misterio,10,1
+20,Misterio,11,1
+20,Misterio,12,1
+20,Ficción,7,1
+20,Ficción,8,1
+20,Ficción,9,1
+20,Ficción,10,1
+20,Ficción,11,1
+20,Ficción,12,1
+20,Romance,7,1
+20,Romance,8,1
+20,Romance,9,1
+20,Romance,10,1
+20,Romance,11,1
+20,Romance,12,1
+20,No Ficción,7,1
+20,No Ficción,8,1
+20,No Ficción,9,1
+20,No Ficción,10,1
+20,No Ficción,11,1
+20,No Ficción,12,1
+20,Ciencia Ficción,7,1
+20,Ciencia Ficción,8,1
+20,Ciencia Ficción,9,1
+20,Ciencia Ficción,10,1
+20,Ciencia Ficción,11,1
+20,Ciencia Ficción,12,1
+20,Fantasia,7,1
+20,Fantasia,8,1
+20,Fantasia,9,1
+20,Fantasia,10,1
+20,Fantasia,11,1
+20,Fantasia,12,1
