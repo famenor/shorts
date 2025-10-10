@@ -1,0 +1,1 @@
+SELECT * FROM anuncios_db.bronce.anuncios WHERE estado = :region_centro
