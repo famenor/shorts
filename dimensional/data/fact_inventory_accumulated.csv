@@ -1,0 +1,4 @@
+id_inventory_accumulated,product_lot,id_store,id_product,id_date_received,id_date_inspected,id_date_bin_placement,id_date_initial_shipment,id_date_last_shipment,quantity_received,quantity_inspected,quantity_returned_to_vendor,quantity_placed_in_bin,quantity_shipped_to_customer,quantity_returned_by_customer,quantity_damaged
+1,L001,1,1,20250301,20250303,21000101,21000101,21000101,100,100,0,0,0,0,0
+2,L002,1,2,20250301,20250303,20250310,20250315,21000101,100,100,1,30,2,0,0
+3,L003,1,3,20250301,20250304,20250306,20250306,20250401,50,50,0,50,49,0,1

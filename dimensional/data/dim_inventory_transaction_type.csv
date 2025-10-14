@@ -1,0 +1,7 @@
+id_inventory_transaction_type,transaction_type_name,transaction_nature,transaction_impact
+1,Recepción de Mercancia,Entrada,Aumento
+2,Venta,Salida,Disminución
+3,Devolución,Entrada,Aumento
+4,Ajuste Positivo,Entrada,Aumento
+5,Ajuste Negativo,Salida,Disminución
+6,Traspaso,Entrada/Salida,Ninguno
