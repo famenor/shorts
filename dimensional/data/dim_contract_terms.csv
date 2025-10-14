@@ -1,0 +1,4 @@
+id_contract_terms,contract_type,payment_terms,currency,tax_included,contract_status,start_date,end_date,penalties
+1,Suministro Mercancia,30 días,MXN,True,Activo,20220101,20231231,Ninguna
+2,Suministro Mercancia,60 días,MXN,True,Activo,20230101,20241231,Ninguna
+3,Suministro Mercancia,90 días,MXN,True,Inactivo,20220101,20221231,Ninguna

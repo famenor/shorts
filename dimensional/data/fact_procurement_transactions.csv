@@ -1,0 +1,5 @@
+id_procurement_transaction,produrement_transaction_date,id_product,id_vendor,id_contract_terms,contract_number,quantity_ordered,amount
+1,20250301,1,1,1,L001,50,25000.0
+2,20250305,1,2,1,L002,50,25000.0
+3,20250310,2,1,2,L001,100,50000.0
+4,20250315,2,2,1,L002,100,50000.0
