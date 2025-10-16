@@ -1,0 +1,9 @@
+id_order_indicator,payment_type,payment_group,comission_indicator
+1,Efectivo,Efectivo,Sin Comisión
+2,Efectivo,Efectivo,Sin Comisión
+3,Transferencia,Efectivo,Sin Comisión
+4,Tarjeta de Débito,Efectivo,Con Comisión
+5,Tarjeta de Débito,Efectivo,Con Comisión
+6,Tarjeta de Crédito,Crédito,Con Comisión
+7,Tarjeta de Crédito,Crédito,Con Comisión
+8,Tarjeta de Crédito,Crédito,Con Comisión
