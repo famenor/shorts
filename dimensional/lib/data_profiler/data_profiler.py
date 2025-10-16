@@ -3,47 +3,64 @@ from abc import ABC, abstractmethod
 import pandas as pd
 import numpy as np
 
-#DATA PROFILER DEFINITION
-class AbstractDataProfiler(ABC):
+#ARRAY PROFILER DEFINITION
+class AbstractArrayProfiler(ABC):
+  
+    @abstractmethod
+    def profile_float_field(self, array) -> None:
+        pass
+
+    @abstractmethod
+    def profile_string_field(self, array) -> None:
+        pass
+
+#ARRAY PROFILER IMPLEMENTATION
+class ArrayProfiler(AbstractArrayProfiler):
+
+    def __init__(self):
+        pass
+
+    def profile_float_field(self, array: pd.Series) -> None:
+        result = {}
+        result['mean'] = np.mean(array)
+        result['min'] = np.min(array)
+        result['max'] = np.max(array)
+        return result
+
+    def profile_string_field(self, array: pd.Series) -> None:
+        result = {}
+        result['unique_count'] = array.nunique()
+        result['unique_values'] = array.unique().tolist()
+        return result
+
+#TABLE PROFILER DEFINITION
+class AbstractTableProfiler(ABC):
+
+    @abstractmethod
+    def profile(self):
+        pass
+
+#TABLE PROFILER IMPLEMENTATION
+class TableProfiler(AbstractTableProfiler):
 
     def __init__(self, table: pd.DataFrame):
         self.table = table
+        self.array_profiler = ArrayProfiler()
+     
+    def profile(self, subset=None) -> dict:
 
-    @abstractmethod
-    def profile_float_field(self, field: str) -> None:
-        pass
+        if subset is None:
+            subset = self.table.columns
 
-    @abstractmethod
-    def profile_string_field(self, field: str) -> None:
-        pass
+        profile = {}    
+        for column in subset:
 
-#DATA PROFILER IMPLEMENTATION
-class DataProfiler(AbstractDataProfiler):
+            if pd.api.types.is_float_dtype(self.table[column]):
+                result = self.array_profiler.profile_float_field(self.table[column])
+                profile[column] = result
 
-    def profile_float_field(self, field: str) -> None:
-        print('')
-        print('Perfilando el campo: ' + field)
-        print('Media: ' + str(np.mean(self.table[field])))
-        print('Desviación estándar: ' + str(np.std(self.table[field])))
-        print('Mínimo: ' + str(np.min(self.table[field])))
-        print('Máximo: ' + str(np.max(self.table[field])))
+            elif pd.api.types.is_string_dtype(self.table[column]):
+                result = self.array_profiler.profile_string_field(self.table[column])
+                profile[column] = result
 
-    def profile_string_field(self, field: str) -> None:
-        print('')
-        print('Perfilando el campo: ' + field)
-        print('Número de valores únicos: ' + str(self.table[field].nunique()))
-        print('Valores únicos: ' + str(self.table[field].unique()))
-
-#DATA PROFILER FACADE
-class DataProfilerFacade:
-
-    def __init__(self, table: pd.DataFrame):
-        self.profiler = DataProfiler(table)
-
-    def profile(self) -> None:    
-        for column in self.profiler.table.columns:
-            if pd.api.types.is_float_dtype(self.profiler.table[column]):
-                self.profiler.profile_float_field(column)
-
-            elif pd.api.types.is_string_dtype(self.profiler.table[column]):
-                self.profiler.profile_string_field(column)
+        return profile
