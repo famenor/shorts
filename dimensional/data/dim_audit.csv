@@ -1,0 +1,17 @@
+id_audit,quality_approved,out_of_bounds_indicator,missing_indicator,inputed_indicator,etl_version
+1,Verdadero,Verdadero,Verdadero,Falso,v0.0.1
+2,Verdadero,Verdadero,Falso,Falso,v0.0.1
+3,Verdadero,Falso,Verdadero,Falso,v0.0.1
+4,Verdadero,Falso,Falso,Falso,v0.0.1
+5,Falso,Verdadero,Verdadero,Falso,v0.0.1
+6,Falso,Verdadero,Falso,Falso,v0.0.1
+7,Falso,Falso,Verdadero,Falso,v0.0.1
+8,Falso,Falso,Falso,Falso,v0.0.1
+9,Verdadero,Verdadero,Verdadero,Falso,v0.0.2
+10,Verdadero,Verdadero,Falso,Falso,v0.0.2
+11,Verdadero,Falso,Verdadero,Falso,v0.0.2
+12,Verdadero,Falso,Falso,Falso,v0.0.2
+13,Falso,Verdadero,Verdadero,Falso,v0.0.2
+14,Falso,Verdadero,Falso,Falso,v0.0.2
+15,Falso,Falso,Verdadero,Falso,v0.0.2
+16,Falso,Falso,Falso,Falso,v0.0.2
