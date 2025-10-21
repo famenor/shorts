@@ -1,0 +1,6 @@
+id_satisfaction,medical_attention,call_center_attention,wait_time
+1,Excelente,Buena,Corto
+2,Buena,Buena,Moderado
+3,Buena,Regular,Moderado
+4,Regular,Mala,Largo
+5,Mala,Mala,Muy Largo

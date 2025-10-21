@@ -1,0 +1,6 @@
+id_diagnosis,cie_code,cie_description,cie_chapter,cie_group,cie_subcategory
+1,A00,Cólera,Capítulo I,Infecciones,S001
+2,B00,Herpes simple,Capítulo II,Infecciones,S002
+3,C00,Neoplasia maligna,Capítulo III,Neoplasias,S003
+4,D00,Neoplasia benigna,Capítulo IV,Neoplasias,S004
+5,E00,Trastornos de la tiroides,Capítulo V,Trastornos endocrinos,S005
