@@ -1,0 +1,52 @@
+version: '3'
+services:
+  kafka:
+    image: quay.io/debezium/kafka:3.3
+    hostname: kafka
+    ports:
+      - "9092:9092"
+    environment:
+      - CLUSTER_ID=debezium-cluster-01
+      - NODE_ID=1
+      - NODE_ROLE=combined
+      - KAFKA_CONTROLLER_QUORUM_VOTERS=1@kafka:9093
+      - KAFKA_LISTENERS=PLAINTEXT://kafka:9092,CONTROLLER://kafka:9093
+      - KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
+  mysql:
+    image: quay.io/debezium/example-mysql:3.3
+    hostname: mysql
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=debezium
+      - MYSQL_USER=mysqluser
+      - MYSQL_PASSWORD=mysqlpw 
+
+  mysqlterm:
+    image: mysql:8.2
+    depends_on:
+      - mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=debezium
+      - MYSQL_USER=mysqluser
+      - MYSQL_PASSWORD=mysqlpw 
+    #entrypoint: sh -c 'exec mysql -h"mysql" -P"3306" -u"mysqluser" -p"mysqlpw"'
+
+  connect:
+    image: quay.io/debezium/connect:3.3
+    hostname: connect
+    ports:
+      - "8083:8083"
+    environment:
+      - GROUP_ID=1
+      - CONFIG_STORAGE_TOPIC=my_connect_configs
+      - OFFSET_STORAGE_TOPIC=my_connect_offsets
+      - STATUS_STORAGE_TOPIC=my_connect_statuses
+    depends_on:
+      - kafka
+      - mysql
+    links:
+      - kafka:kafka
+      - mysql:mysql
+
+
